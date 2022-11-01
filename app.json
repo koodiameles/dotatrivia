@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "dotatrivia",
+    "slug": "dotatrivia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

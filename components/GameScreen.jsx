@@ -56,7 +56,7 @@ function GameScreen({currentLanguage, changeLanguage}) {
   // console.log("answerOptions", answerOptions)
   // console.log("correctAnswer", correctAnswer)
   // console.log("gameState", gameState)
-  // console.log("heroList", heroList)
+  console.log("heroList", heroList)
 
   const checkPlayersAnswer = (answerOption) => {
     let didPlayerAnswerCorrectly = false;
@@ -185,7 +185,7 @@ function GameScreen({currentLanguage, changeLanguage}) {
       default: //= running, start, next question
         return(
           <View>
-            <Text style={styles.textScore}>{t('current score')}: {currentScore}</Text>
+            <Text style={styles.textScore}>{t('current score')}:   {currentScore}</Text>
             <Text style={styles.text}>{t('choose one')}!</Text>
             <Text style={styles.text}>{currentLanguage === "en" ? currentQuestion.questionEN : currentQuestion.questionFI}</Text>
             <View style={styles.imageOptions}>

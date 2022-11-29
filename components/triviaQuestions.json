@@ -1,0 +1,61 @@
+{
+  "triviaQuestionsList": [
+    {
+      "id": 1,
+      "questionFI": "Kenellä heistä on pisin hyökkäskantama?",
+      "questionEN": "Who of them has the longest attack range?",
+      "filter": {
+        "type": "attack_type",
+        "value": "Ranged"
+      },
+      "answerTag": "highestAttackRange"
+    },
+    {
+      "id": 3,
+      "questionFI": "Kuka heistä on nopein? (Luotantainen liikkusmisnopeus)",
+      "questionEN": "Who's the fastest of them? (Base movement speed)",
+      "filter": null,
+      "answerTag": "highestMoveSpeed"
+    },
+    {
+      "id": 4,
+      "questionFI": "Kuka heistä on valituin+bannatuin tämän hetkisessä pro-skenessä?",
+      "questionEN": "Who of them is the most picked+banned in the current pro scene?",
+      "filter": null,
+      "answerTag": "mostPickedAndBanned"
+    }
+  ],
+  "testing": [
+    {
+      "id": 1,
+      "questionFI": "Kenellä heistä on pisin hyökkäskantama?",
+      "questionEN": "Who of them has the longest attack range?",
+      "filter": {
+        "type": "attack_type",
+        "value": "Ranged"
+      },
+      "answerTag": "highestAttackRange"
+    },
+    {
+      "id": 2,
+      "questionFI": "Kenellä suurin luontainen health regenaraatio?",
+      "questionEN": "Who of them has the best base health regen?",
+      "filter": null,
+      "answerTag": "highestBaseRegen"
+    },
+    {
+      "id": 3,
+      "questionFI": "Kuka heistä on nopein? (Luotantainen liikkusmisnopeus)",
+      "questionEN": "Who's the fastest of them? (Base movement speed)",
+      "filter": null,
+      "answerTag": "highestMoveSpeed"
+    },
+    {
+      "id": 4,
+      "questionFI": "Kuka heistä on valituin+bannatuin tämän hetkisessä pro-skenessä?",
+      "questionEN": "Who of them is the most picked+banned in the current pro scene?",
+      "filter": null,
+      "answerTag": "mostPickedAndBanned"
+    }
+  ]
+} 

@@ -1,0 +1,26 @@
+{
+  "translation": {
+    "welcome":  "Tervetuloa DotaTrivian pariin",
+    "game": "Peli",
+    "score": "Pisteet",
+    "info": "Info",
+    "change language": "Change Language to EN",
+    "start": "Aloita peli!",
+    "game info": "Pelin idea",
+    "info bullet point 1": "⁍ Kysymykset liittyvät Dota2 pelin sankareihin",
+    "info bullet point 2": "⁍ Kysymykseen saattaa olla useampi oikea vastaus",
+    "info bullet point 3": "⁍ Oikea vastaus antaa sinulle pisteen",
+    "info bullet point 4": "⁍ Yksikin väärä vastaus ja häviät!",
+    "made possible by": "Erityiset kiitokset",
+    "art by": "Taustakuvasta kiitokset",
+    "scorescreen": "PISTETAULUKKO",
+    "player name": "PELAAJA",
+    "score_capital": "PISTEET",
+    "current score": "Pistetilanne",
+    "choose one": "Valitse yksi",
+    "game over": "PELI PÄÄTTYI",
+    "you scored": "Sait",
+    "points": "pistettä",
+    "Input your name and submit score (if you wish)": "Laita nimimerkki ja tallenna suorituksesi! (Jos haluat)"
+  }
+}

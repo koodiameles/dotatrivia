@@ -1,0 +1,26 @@
+{
+  "translation": {
+    "welcome": "Welcome to DotaTrivia",
+    "game": "Game",
+    "score": "Score",
+    "info": "Info",
+    "change language": "Change Language to FI",
+    "start": "Start the game!",
+    "game info": "Game Info",
+    "info bullet point 1": "⁍ You'll be asked questions related to Dota2 heroes",
+    "info bullet point 2": "⁍ There might be multiple right choices to the question",
+    "info bullet point 3": "⁍ Correct asnwer awards you a point",
+    "info bullet point 4": "⁍ Answer wrong and you're out!",
+    "made possible by": "Made possible by",
+    "art by": "Art by",
+    "scorescreen": "SCORESCREEN",
+    "player name": "PLAYER NAME",
+    "score_capital": "SCORE",
+    "current score": "Current score",
+    "choose one": "Choose one",
+    "game over": "GAME OVER",
+    "you scored": "You scored",
+    "points": "points",
+    "Input your name and submit score (if you wish)": "Input your name and submit score (if you wish)"
+  }
+}

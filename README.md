@@ -17,4 +17,4 @@ To test and play, you need to:
 - React Native Elements
 - Expo
 - Firebase
-- I18next
+- i18next
